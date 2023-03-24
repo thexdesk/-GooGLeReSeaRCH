@@ -42,7 +42,7 @@ setup(
     install_requires=[
         "scikit-learn==0.19.2",
         "tensorflow-datasets==2.1.0",
-        "tensorflow-gpu==2.1.0",
+        "tensorflow-gpu==2.12.0",
         "matplotlib==2.2.4",
         "scipy==1.2.2",
         "PyYaml==5.3",
